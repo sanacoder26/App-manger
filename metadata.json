@@ -1,0 +1,5 @@
+{
+  "name": "TaskMaster",
+  "description": "A full-featured Task Manager application with priorities, due dates, and filtering.",
+  "requestFramePermissions": []
+}
