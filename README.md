@@ -1,15 +1,37 @@
+# 📝 Todo App (React + TypeScript)
 
+A simple, fast, and responsive Todo Application built with **React.js and TypeScript**.  
+This app helps you manage daily tasks efficiently with a clean UI and smooth user experience.
 
-This contains everything you need to run your app locally.
+---
 
+## ✨ Features
 
-## Run Locally
+- ➕ Add new tasks easily  
+- 🗑️ Delete tasks with one click  
+- ✔️ Mark tasks as completed  
+- ✏️ Edit existing tasks  
+- 💾 Data persistence (if local storage used)  
+- 📱 Fully responsive design  
+- ⚡ Fast and lightweight UI  
+- 🔒 Type-safe code with TypeScript  
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠 Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- React.js  
+- TypeScript  
+- CSS / Tailwind (or your styling choice)  
+- React Hooks (useState, useEffect)  
+
+---
+
+## 🚀 Installation & Setup
+
+```bash
+git clone <your-repo-link>
+cd todo-app
+npm install
+npm run dev
+
